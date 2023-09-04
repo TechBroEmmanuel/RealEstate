@@ -15,7 +15,7 @@ const data = [
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: "Why choose us",
     detail:
       "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
   },
